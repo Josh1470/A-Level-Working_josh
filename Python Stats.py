@@ -12,4 +12,4 @@ z, z_with_nan = pd.Series(x), pd.Series(x_with_nan)
 w = [0.1, 0.2, 0.3, 0.25, 0.15]
 
 for i in range(10):
-    print (i)
+    print(i)
